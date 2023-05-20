@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9k7qDI5OKi7CF5Nh0JvLj/holFgr+bnzyry91mcl28C2D35g65vlWsJ7ReMz4/1Sbqc43Dy9uBY/melWeC+56g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jayas\\source\\repos\\ChatBotApp\\ChatBotApp\\ChatBotApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
