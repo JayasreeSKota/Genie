@@ -2,7 +2,9 @@
 
 ![ alt text ](https://img.shields.io/badge/11-csharp-green?logo=csharp)
 ![ alt text ](https://img.shields.io/badge/ChatGPT-openai-purple?logo=openai)
-
+![ alt text ](https://img.shields.io/badge/html5-orange?logo=html5)
+![ alt text ](https://img.shields.io/badge/css3-royalblue?logo=css3)
+![ alt text ](https://img.shields.io/badge/visualstudio-blueviolet?logo=visualstudio)
 
 Introducing Genie: 🧞‍♂️🚀
 
