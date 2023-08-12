@@ -1,5 +1,9 @@
 # Genie
 
+![ alt text ](https://img.shields.io/badge/11-csharp-green?logo=csharp)
+![ alt text ](https://img.shields.io/badge/ChatGPT-openai-purple?logo=openai)
+
+
 Introducing Genie: 🧞‍♂️🚀
 
 ✨ Sophisticated AI Chatbot: Genie is a state-of-the-art AI chatbot, crafted with C# and Chat GPT API.
@@ -12,7 +16,4 @@ Introducing Genie: 🧞‍♂️🚀
 
 Unleash the power of Genie today and discover a whole new dimension of chatbot experiences! 🌈🎉💻
 
-![C# logo]
-
-![ChatGPT logo]
 
